@@ -1,5 +1,5 @@
 document.getElementById('enterButton').addEventListener('click',function(){
-    window.location.href = 'https://forms.gle/Gg7sHJkCyrb3LgKh9';
+    window.location.href = 'https://forms.gle/3iHWqxfFvLK4hRdU8';
 });
 document.getElementById('rulesButton').addEventListener('click',function(){
     window.location.href = 'rules.html';
