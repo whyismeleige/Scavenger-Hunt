@@ -26,8 +26,8 @@ body {
   justify-content: center;
   align-items: center;
   height: 100vh;
-  background: linear-gradient(135deg, #0f0c29, #302b63, #24243e);
-  font-family: 'Arial', sans-serif;
+  background: linear-gradient(90deg, #004aad, #cb6ce6);
+  font-family: Georgia, 'Times New Roman', Times, serif;
   color: #ffffff;
 }
 
